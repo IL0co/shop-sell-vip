@@ -3,28 +3,28 @@
 	"Menu. Ok"
 	{
 		"ru"			"Уверен\n \n "
-		"en"			""
+		"en"			"I am sure\n \n "
 	}
 	"Menu. Sell Price"
 	{
 		"#format" "{1:i}"
-		"en"			""
+		"en"			"Selling price: {1}\n "
 		"ru"			"Цена продажи: {1}\n "
 	}
 	"Menu. Confirm"
 	{
-		"en"			""
+		"en"			"Are you sure you want to sell your vipka?\n"
 		"ru"			"Уверены что хотите продать свою випку?\n "
 	}
 	
 	"Menu. Item Name"
 	{
-		"en"			""
+		"en"			"Sell your vipka"
 		"ru"			"Продать свою випку"
 	}
 	"Menu. Category Name"
 	{
-		"en"			""
+		"en"			"Stuff"
 		"ru"			"Плюшки"
 	}
 }
