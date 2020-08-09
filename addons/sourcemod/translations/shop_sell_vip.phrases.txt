@@ -1,0 +1,30 @@
+"Phrases"
+{
+	"Menu. Ok"
+	{
+		"ru"			"Уверен\n \n "
+		"en"			""
+	}
+	"Menu. Sell Price"
+	{
+		"#format" "{1:i}"
+		"en"			""
+		"ru"			"Цена продажи: {1}\n "
+	}
+	"Menu. Confirm"
+	{
+		"en"			""
+		"ru"			"Уверены что хотите продать свою випку?\n "
+	}
+	
+	"Menu. Item Name"
+	{
+		"en"			""
+		"ru"			"Продать свою випку"
+	}
+	"Menu. Category Name"
+	{
+		"en"			""
+		"ru"			"Плюшки"
+	}
+}
